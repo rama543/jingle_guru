@@ -1,1 +1,2 @@
 This file is directly created in remote repository
+File modified in  remote repositiry only
